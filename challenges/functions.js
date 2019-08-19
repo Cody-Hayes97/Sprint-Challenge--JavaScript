@@ -35,7 +35,7 @@ consume("Mary", "Poppins", greeting); // Hello Mary Poppins, nice to meet you!
 
 // Explanation:
 
-//When a variable is not defined in the scope of a function, it will naturally look outword for context, and since internal is defined directly above its invocation, it can be used for context.
+///When a variable is not defined in the scope of a function, it will naturally look outword for context, and since internal is defined directly above its invocation, it can be used for context.///
 
 const external = "I'm outside the function";
 
